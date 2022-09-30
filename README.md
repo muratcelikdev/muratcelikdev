@@ -5,7 +5,6 @@ I am a passionate front-end developer with 3 years experience in web & cross-pla
 
 * 🌍  I'm based in Izmir, Turkey
 * ✉️  You can contact me at [muratcelikdev@gmail.com](mailto:muratcelikdev@gmail.com)
-* 🧠  I'm learning MongoDB & Express.js
 * 🤝  I'm open to collaborating on any open-source project
 
 ### Skills
